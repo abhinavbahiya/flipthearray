@@ -2,9 +2,9 @@
 
 const request = {
   one: {
-    age: 18,
-    student: 'no',
-    income: 50000
+    "age": 18,
+    "student": "no",
+    "income": 50000
   }
 }
 
